@@ -62,19 +62,14 @@ Para que las 7 APIs no sean solo código en una terminal, se requiere un **Front
 
 ## Capturas de Pantalla
 
-*(A continuación se muestran ejemplos visuales de las distintas partes del sitio. Reemplaza las rutas de las imágenes con las capturas reales de tu proyecto)*
+### 1. Directorio de Servicios (Pantalla Principal)
+![Directorio de Servicios](./assets/inicio.png "Pantalla de Inicio de la plataforma")
 
-### 1. Pantalla de Inicio (Landing Page)
-![Captura del Inicio - Landing Page](./assets/inicio.png "Pantalla de Inicio")
+### 2. Laboratorio Interactivo (Prueba de Endpoints)
+![Laboratorio Interactivo](./assets/laboratorio.png "Interfaz para probar los endpoints")
 
-### 2. Catálogo de Productos y Ventas
-![Captura del Catálogo](./assets/catalogo.png "Catálogo de Productos")
-
-### 3. Panel Privado (Dashboard / Tareas)
-![Captura del Panel Privado](./assets/dashboard.png "Panel Privado de Usuario")
-
-### 4. Documentación Técnica (Swagger UI)
-![Captura de Swagger UI](./assets/swagger.png "Documentación Interactiva de las APIs")
+### 3. Referencia Técnica de las APIs
+![Referencia de la API](./assets/referencia.png "Documentación técnica y detallada")
 
 ---
 
